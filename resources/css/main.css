@@ -41,7 +41,7 @@ html, body {
 
 .thumbnail {
  border: 0px;
- position: absolute;
+ position: relative;
  padding: 50px;
    border-radius: 0;
    margin-bottom:50px;
